@@ -65,6 +65,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
+  - WEANLESS
 ---
 
 Leo Heunks is a full professor of intensive care medicine at the Radboud university medical center. His research interests include ....
