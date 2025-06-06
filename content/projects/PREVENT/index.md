@@ -11,7 +11,7 @@ image:
 
 sections:
   - block: hero
-    content: prevent1
+    content: 
       title: |
       image:
         filename: welcome.jpg
