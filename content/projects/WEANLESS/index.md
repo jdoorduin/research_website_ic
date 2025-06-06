@@ -16,10 +16,10 @@ sections:
     content: 
       title: |
       image:
-        filename: featured.png
+        filename: weanless.png
       text: |   
         **Welcome to the WEANLESS study page** <br><br>
-        xxxxxxxxxxxxxxxxxxxxxx
+        The “Weaning with Levosimendan (WEANLESS)” study is a multicenter national RCT. On this webpage you can find study information for participating researchers and interested parties.
           
   - block: markdown
     id: prevent_news_1
