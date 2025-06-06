@@ -11,7 +11,7 @@ image:
 
 sections:
   - block: hero
-    content:
+    content: prevent1
       title: |
       image:
         filename: welcome.jpg
@@ -20,7 +20,7 @@ sections:
         With our research we aim to improve outcome in critically ill mechanically ventilated patients through development and utilization of novel technologies and strategies.
           
   - block: markdown
-    id: news_1
+    id: prevent_news_1
     content:
       title: Latest News
       subtitle:
@@ -32,7 +32,7 @@ sections:
       columns: '1'
 
   - block: collection
-    id: blog_1
+    id: preven_blog_1
     content:
       title: Blog
       subtitle: 
