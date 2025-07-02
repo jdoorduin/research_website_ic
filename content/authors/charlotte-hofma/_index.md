@@ -1,16 +1,16 @@
 ---
 # Display name
-title: drs. Esther de Leijer 
+title: Charlotte Hofma
 
 # Full Name (for SEO)
-first_name: Esther
-last_name: de Leijer
+first_name: Charlotte
+last_name: Hofma
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD candidate
+role: MSc student
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,21 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: My research interests include ....
 
 interests:
   - Respiratory Failure
   - Mechanical Ventilation
   - Weaning
 
-
 education:
   courses:
-    - course: MD
-      institution: Radboud university
-      year: 2020
+    - course: BSc in Technical Medicine
+      institution: University of Twente
+      year: 2021
+    - course: MSc in Technical Medicine
+      institution: University of Twente
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,8 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:esther.deleijer@radboudumc.nl'
-
+    link: 'mailto:arjen.welleweerd@radboudumc.nl'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,8 +57,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Undergraduate
   - Researchers
-  - WEANLESS
 ---
-
-Esther de Leijer is a PhD student in ...

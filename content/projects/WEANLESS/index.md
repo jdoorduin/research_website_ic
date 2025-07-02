@@ -22,29 +22,147 @@ sections:
         The “Weaning with Levosimendan (WEANLESS)” study is a multicenter national RCT. On this webpage you can find study information for participating researchers and interested parties.
           
   - block: markdown
-    id: prevent_news_1
+    id: weanless_news_1
     content:
       title: Latest News
       subtitle:
       text: |
         **June 2025** - Ethical approval<br>
 
+  - block: features
+    content:
+      title: Currently Recruiting Centers
+      text: |
+        Centers currently including patients.
+
+        <br>
+      items:
+        - name: "Radboudumc, Nijmegen"
+          icon_pack: "fas"
+          icon: "hospital"
+          description: "Coordinating center, located in Nijmegen."
+        - name: "CWZ, Nijmegen"
+          icon_pack: "far"
+          icon: "hospital"
+          description: "CWZ hospital in Nijmegen."
+        - name: "JBZ, Den Bosch"
+          icon_pack: "far"
+          icon: "hospital"
+          description: "Jeroen Bosch Hospital."
+
+        - name: "Maasstad Ziekenhuis, Rotterdam"
+          icon_pack: "far"
+          icon: "hospital"
+          description: "Major hospital in Rotterdam."
+        - name: "Rijnstate Ziekenhuis, Arnhem"
+          icon_pack: "far"
+          icon: "hospital"
+          description: "Rijnstate Hospital in Arnhem."
+        - name: "Franciscus Ziekenhuis, Rotterdam"
+          icon_pack: "far"
+          icon: "hospital"
+          description: "Franciscus Hospital in Rotterdam."
+
+  - block: markdown
+    content:
+      title: "Study Summary"
+      text: |
+        ### Rationale
+        Respiratory muscle weakness is common in invasively ventilated patients and contributes to prolonged ventilation and worse outcomes. This weakness is not only caused by muscle atrophy but also by reduced calcium sensitivity, which impairs contractile efficiency. Levosimendan, a calcium sensitizer approved for acute heart failure, has been shown by our group to improve calcium sensitivity in respiratory muscles in both experimental models and healthy subjects. However, its effect on clinically relevant outcomes in ventilated ICU patients has not yet been studied.
+
+        ### Objective
+        To assess the effect of levosimendan on the number of ventilator-free days up until day 28. 
+
+        ### Study design
+        WEANLESS is an investigator-initiated, multicenter, randomized double blinded clinical trial in ventilated adult patients admitted to the ICUs of participating hospitals.
+
+        ### Study population
+        This study will include 250 patients. Who are invasively ventilated for more than 48hours and failed at least one SBT. Patients are enrolled from participating ICUs and randomized within 24 hours after failing their first SBT.
+
+        ### Intervention
+        Patients will be randomly assigned in a double-blind manner to receive either levosimendan or placebo. The study medication will be administered as a continuous intravenous infusion over 24 hours, starting at a dose of 0.1 µg/kg/min, with the option to increase to 0.2 µg/kg/min after 4 hours if well tolerated. If weaning is not successful after 7 days, a maximum of four treatment cycles may be given. All patients will continue to receive standard ICU care, including daily assessments of readiness to wean from mechanical ventilation.
+
+        In addition to the intervention, health-related quality of life will be assessed using the EQ-5D-5L questionnaire at baseline, 3 months, and 12 months after inclusion. Dyspnea scores will be recorded daily after extubation until ICU discharge.
+
+        ### Main study parameters/endpoints
+        The primary endpoint is the number of days from the initiation of study medication to successful weaning from invasive mechanical ventilation. This is a composite endpoint combining both mortality and the duration of ventilation. Secondary outcomes include ventilator-free days at day 90, dyspnea scores, reintubation rates, ICU readmission, ICU length of stay, hospital lenght of stay and mortality. Safety outcomes include the occurrence of cardiac arrhythmias, changes in vasopressor requirements and other adverse events related to levosimendan.
+
+        ### Nature and extent of the burden and risks associated with participation, benefit and group relatedness
+        The burden for participants is minimal. Levosimendan is a registered drug with a known safety profile and is already used in critical care settings. The placebo is an infusion with Soluvit. All other care follows standard ICU procedures. Data will be collected from the electronic medical record and routine monitoring. No additional invasive procedures are required solely for the main study.
+
   - block: people
     id: team_1
     content:
-      title: WEANLESS Team
+      title: Steering Committee
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - WEANLESS
       sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: true
-      show_role: true
-      show_social: true
-        
     design:
       columns: '1'
+      sort_ascending: true
+      show_interests: false
+      show_role: false
+      show_organizations: true
+
+  - block: features
+    content:
+      title: Data and Safety Monitoring Board
+      subtitle: Independent experts monitoring the safety and progress of the WEANLESS study.
+      items:
+        - name: Prof. Giacomo Bellani
+          description: Head of the DSMB  
+            Centro Interdipartimentale di Scienze Mediche (CISMed), Università di Trento
+          icon: user-shield
+          icon_pack: fas
+
+        - name: Prof. L. van der Linden
+          description: University Hospitals Leuven (UZ Leuven) & KU Leuven
+          icon: user-shield
+          icon_pack: fas
+
+        - name: Prof. Louise Rose
+          description: Head of Division of Digital Health and Applied Technology Assessment and Professor of Nursing, King’s College London
+          icon: user-shield
+          icon_pack: fas
+
+        - name: Prof. John G. Laffey
+          description: Anaesthesia and Intensive Care Medicine, School of Medicine, University of Galway
+          icon: user-shield
+          icon_pack: fas
+    design:
+      columns: "4"
+      card_style: shadow
+
+  - block: features
+    content:
+      title: "Independent advisor"
+      items:
+        - name: "Dr. Ary Serpa Neto"
+          description: | 
+            Independent statistician  
+            Australian and New Zealand Intensive Care-Research Centre (ANZIC-RC), Melbourne, Australia
+          icon: "user-tie"       # FontAwesome icon for doctor/statistician
+          icon_pack: "fas"      # solid icon style
+
+  - block: files
+    content:
+      title: "Important Documents"
+      items:
+        - name: "Study Protocol"
+          url: "/files/placeholder.pdf"
+          description: "Detailed protocol for the WEANLESS study."
+          icon: "far fa-file"
+        - name: "Informed Consent Form"
+          url: "/files/placeholder.pdf"
+          description: "Consent form template for patients."
+          icon: "far fa-file"
+        - name: "Data Management Plan"
+          url: "/files/placeholder.pdf"
+          description: "Plan for data handling and privacy."
+          icon: "far fa-file"
+
+
 
 ---

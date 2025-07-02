@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lisanne Roesthuis
+title: dr. Lisanne Roesthuis
 
 # Full Name (for SEO)
 first_name: Lisanne

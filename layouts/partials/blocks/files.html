@@ -1,0 +1,22 @@
+{{/* Hugo Blox: Files block with icons */}}
+{{ $block := .wcBlock }}
+
+<div class="files-block">
+  {{ with $block.content.title }}
+    <h2>{{ . | markdownify | emojify }}</h2>
+  {{ end }}
+
+  <ul class="files-list list-unstyled">
+    {{ range $block.content.items }}
+      <li class="mb-2">
+        {{ with .icon }}
+          <i class="{{ . }}" aria-hidden="true" style="margin-right:0.5em; color:#007bff;"></i>
+        {{ end }}
+        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+        {{ with .description }}
+          <br><small>{{ . | markdownify | emojify }}</small>
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</div>

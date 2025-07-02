@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonne Doorduin
+title: dr. Jonne Doorduin
 
 # Full Name (for SEO)
 first_name: Jonne

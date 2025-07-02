@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leo Heunks
+title: prof. dr. Leo Heunks
 
 # Full Name (for SEO)
 first_name: Leo

@@ -22,7 +22,7 @@ marketing:
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    # googleAnalytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
