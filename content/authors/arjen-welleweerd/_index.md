@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Medicine
-      institution: Radboud University
-      year: 2022
+    - course: BSc in Technical Medicine
+      institution: University of Twente
+      year: 2021
     - course: MSc in Technical Medicine
-      institution: University of twente
-      year: 2014
+      institution: University of Twente
+      year: 2026
+    - course: MSc in Biomedical Engineering
+      institution: University of Twente
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lisanne.roesthuis@radboudumc.nl'
+    link: 'mailto:arjen.welleweerd@radboudumc.nl'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,4 +63,4 @@ user_groups:
   - Researchers
 ---
 
-Lisanne Roesthuis is a post doc in ....
+Arjen is a graduate intern studying Technical Medicine

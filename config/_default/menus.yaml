@@ -7,18 +7,31 @@ main:
   - name: News
     url: /#news_1
     weight: 10
+
   - name: Blog
     url: /#blog_1
     weight: 20
+
   - name: Projects
     url: /#projects_1
     weight: 30
+  - name: PREVENT
+    parent: Projects
+    url: projects/prevent/
+    weight: 10
+  - name: WEANLESS
+    parent: Projects
+    url: projects/weanless/
+    weight: 20
+
   - name: Team
     url: /#team_1
     weight: 40
+
   - name: Publications
     url: /#publications_1
     weight: 50
+
   - name: RespiCalc
     identifier: respicalc
     weight: 60
@@ -30,6 +43,7 @@ main:
     parent: respicalc
     url: calculations/gas/
     weight: 20
+
   - name: Contact
     url: contact
     weight: 70
