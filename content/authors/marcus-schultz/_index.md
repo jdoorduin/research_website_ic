@@ -1,6 +1,6 @@
 ---
 # Display name
-title: prof. dr. Marcus Schultz
+title: Marcus Schultz
 
 # Full Name (for SEO)
 first_name: Marcus

@@ -62,3 +62,10 @@ security:
 sitemap:
   _merge: deep
 googleAnalytics: ""
+header:
+  navbar_fixed: true
+  show_search: false
+  show_language: false  # Only set to true if you're using multiple languages
+
+params:
+  custom_css: ["assets/scss/custom.css"]

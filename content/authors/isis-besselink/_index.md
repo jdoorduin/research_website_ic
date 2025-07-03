@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Esther de Leijer 
+title: Isis Besselink
 
 # Full Name (for SEO)
-first_name: Esther
-last_name: de Leijer
+first_name: Isis
+last_name: Besselink
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD candidate, Resident in Pulmonary Medicine
+role: Clinical Research Intern
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,21 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: Bio
 
 interests:
-  - Pulmonary Physiology
-  - Respiratory Failure
-  - Facilitation of Weaning
-
+  - Respiratory Monitoring
+  - Functional Assements
+  - Physiological Signals
 
 education:
   courses:
-    - course: Doctor of Medicine
-      institution: Radboud University
-      year: 2020
+    - course: MSc in Technical Medicine
+      institution: University of Twente
+      year: 2026
+    - course: BSc in Technical Medicine
+      institution: University of Twente
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,11 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:esther.deleijer@radboudumc.nl'
+    link: 'mailto:Isis.Besselink@radboudumc.nl'
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/esther-de-leijer-10718918b/'    
-
+    link: 'https://www.linkedin.com/in/isis-besselink-125235294/'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,8 +60,15 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidates
-  - WEANLESS
+  # - Principal Investigators
+  # - Researchers
+  # - Candidates
+  # - Affiliated
+  - Graduate Students
+  # - Administration
+  # - Visitors
+  # - Alumni
+  # - External
 ---
 
-Esther de Leijer is a PhD student in ...
+And then over here we put a small story to explain how and what a person does.

@@ -1,6 +1,6 @@
 ---
 title: Launch of the WEANLESS study
-summary: What is the role of diaphragm hibernation in critically ill patients?
+summary: Update from the study team
 date: 2025-07-02
 authors:
   - esther-de-leijer

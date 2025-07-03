@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Esther de Leijer 
+title: Tommaso Rosa
 
 # Full Name (for SEO)
-first_name: Esther
-last_name: de Leijer
+first_name: Tommaso
+last_name: Rosà
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD candidate, Resident in Pulmonary Medicine
+role: Research Fellow, Resident in Anesthesiology and Intensive Care Medicine
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,21 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: Bio
 
 interests:
-  - Pulmonary Physiology
   - Respiratory Failure
-  - Facilitation of Weaning
-
+  - Positive End Expiratory Pressure
+  - Non Invasive Helmet Ventilation
 
 education:
   courses:
+    - course: PhD in Medicine
+      institution: Università Cattolica del Sacro Cuore
+      year: 20XX
     - course: Doctor of Medicine
-      institution: Radboud University
-      year: 2020
+      institution: Università Cattolica del Sacro Cuore
+      year: 20XX
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,11 +41,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:esther.deleijer@radboudumc.nl'
-  - icon: linkedin
+    link: 'mailto:Tommaso.Rosa@radboudumc.nl'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=kBS93iQAAAAJ&hl=en'
+  - icon: researchgate
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/esther-de-leijer-10718918b/'    
-
+    link: 'https://www.researchgate.net/profile/Tommaso-Rosa'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -51,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'Tommaso.Rosa@radboudumc.nl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -59,8 +63,15 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidates
-  - WEANLESS
+  # - Principal Investigators
+  # - Researchers
+  # - Candidates
+ - Affiliated Members
+  # - Students
+  # - Administration
+  # - Visitors
+  # - Alumni
+  # - External
 ---
 
-Esther de Leijer is a PhD student in ...
+And then over here we put a small story to explain how and what a person does.

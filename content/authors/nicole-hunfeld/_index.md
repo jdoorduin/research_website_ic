@@ -1,6 +1,6 @@
 ---
 # Display name
-title: dr. Nicole Hunfeld
+title: Nicole Hunfeld
 
 # Full Name (for SEO)
 first_name: Nicole

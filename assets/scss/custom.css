@@ -1,0 +1,60 @@
+
+  
+  /* Ensure container elements don’t break layout */
+  img, .container, .row, .col, .featurette {
+    max-width: 100% !important;
+  }
+  
+  /* Fix navbar wrapping and prevent overflow */
+  .navbar-brand, .navbar-nav {
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+  
+  /* Optionally reduce font-size for long site titles */
+  .navbar-brand {
+    font-size: 1rem;
+  }
+  
+  /* Optional: hide long title on small screens */
+  @media (max-width: 599px) {
+    .navbar-brand span {
+      display: none;
+    }
+  }
+  
+
+/* Make sure images and other elements don't overflow */
+img, iframe, .container, .row, .columns {
+  max-width: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Force consistent layout sizing */
+* {
+  box-sizing: border-box;
+}
+
+/* Enforce proper layout for all content */
+/* body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: auto; /* allow vertical scroll 
+ } */
+
+/* Force content containers to center and stay within screen */
+.container,
+.main-content,
+.page,
+.section,
+article {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  padding-left: 2.5rem;
+  padding-right: 1rem;
+}

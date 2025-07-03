@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Esther de Leijer 
+title: Tim Frenzel
 
 # Full Name (for SEO)
-first_name: Esther
-last_name: de Leijer
+first_name: Tim
+last_name: Frenzel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD candidate, Resident in Pulmonary Medicine
+role: Clinical Researcher, Anesthesiologist-Intensivist
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,27 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: Bio
 
 interests:
-  - Pulmonary Physiology
-  - Respiratory Failure
-  - Facilitation of Weaning
-
+  - Weaning
+  - Predictive Modeling
+  - Clinical Integration of AI
 
 education:
   courses:
+    - course: Intensive Care Medicine
+      institution: Radboud University Medical Center
+      year: 2011
+    - course: PhD in Medicine
+      institution: Universitaet Muenster
+      year: 2009
+    - course: Anesthesiology, Neuroscience
+      institution: University of California
+      year: 2007
     - course: Doctor of Medicine
-      institution: Radboud University
-      year: 2020
+      institution: Friedrich-Schiller-Universität Jena
+      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,11 +47,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:esther.deleijer@radboudumc.nl'
+    link: 'mailto:Tim.Frenzel@radboudumc.nl'
+  - icon: researchgate
+    icon_pack: fab
+    link: 'https://www.researchgate.net/profile/Tim-Frenzel'
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/esther-de-leijer-10718918b/'    
-
+    link: 'https://www.linkedin.com/in/timfrenzel/'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -51,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'Tim.Frenzel@radboudumc.nl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -59,8 +69,16 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidates
-  - WEANLESS
+  # - Principal Investigators
+  - Research Staff
+  # - Candidates
+  # - Affiliated
+  # - Students
+  # - Administration
+  # - Visitors
+  # - Alumni
+  # - External
+  - PREVENT
 ---
 
-Esther de Leijer is a PhD student in ...
+And then over here we put a small story to explain how and what a person does.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: prof. dr. Leo Heunks
+title: Leo Heunks
 
 # Full Name (for SEO)
 first_name: Leo
@@ -21,16 +21,21 @@ organizations:
 bio: My research interests include ....
 
 interests:
-  - Respiratory Failure
-  - Mechanical Ventilation
-  - Weaning
+  - Respiratory Physiology
+  - Diaphragm Dysfunction
+  - Weaning Failure
+  - Respiratory Drive and Mechanics
+  - Translational Interventions
 
 education:
   courses:
+    - course: Pulmonary and Intensive Care Medicine
+      institution: Radboud University Medical Center
+      year: 2007
     - course: PhD in Medicine
       institution: Radboud University
-      year: 2001
-    - course: MD
+      year: 2000
+    - course: Doctor of Medicine
       institution: Radboud University
       year: 1996
 
@@ -56,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'leo.heunks@radboudumc.nl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

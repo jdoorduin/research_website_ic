@@ -1,6 +1,6 @@
 ---
 # Display name
-title: dr. Lisanne Roesthuis
+title: Lisanne Roesthuis
 
 # Full Name (for SEO)
 first_name: Lisanne
@@ -10,7 +10,7 @@ last_name: Roesthuis
 superuser: false
 
 # Role/position
-role: Senior researcher
+role: Clinical Researcher, Technical Physician
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include ....
 
 interests:
-  - Respiratory Failure
-  - Mechanical Ventilation
+  - Advanced Respiratory Monitoring 
   - Weaning
+  - Protective Ventilation
+
 
 education:
   courses:
@@ -42,6 +43,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:lisanne.roesthuis@radboudumc.nl'
+  - icon: researchgate
+    icon_pack: fab
+    link: 'https://www.researchgate.net/profile/Lisanne-Roesthuis'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/lisanne-roesthuis-71a9b85b/'
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +65,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research Staff
 ---
 
 Lisanne Roesthuis is a post doc in ....

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: dr. Jonne Doorduin
+title: Jonne Doorduin
 
 # Full Name (for SEO)
 first_name: Jonne
@@ -25,7 +25,7 @@ interests:
   - Mechanical Ventilation
   - Neurophysiology
   - Weaning
-  - Biomedical engineering
+  - Biomedical Engineering
 
 education:
   courses:
@@ -50,6 +50,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=nl&user=mFuMDbwAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/jonnedoorduin/'
   - icon: github
     icon_pack: fab
     link: https://github.com/jdoorduin
