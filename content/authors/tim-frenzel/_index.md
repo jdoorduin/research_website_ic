@@ -69,15 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  # - Principal Investigators
-  - Research Staff
-  # - Candidates
-  # - Affiliated
-  # - Students
-  # - Administration
-  # - Visitors
-  # - Alumni
-  # - External
+  - Clinical Researchers
   - PREVENT
 ---
 

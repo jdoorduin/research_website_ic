@@ -65,7 +65,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Staff
+  - Clinical Researchers
+  - PREVENT
 ---
 
 Lisanne Roesthuis is a post doc in ....

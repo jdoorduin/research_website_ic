@@ -71,6 +71,7 @@ highlight_name: true
 user_groups:
   - Principal Investigators
   - WEANLESS
+  - PREVENT
 ---
 
 Leo Heunks is a full professor of intensive care medicine at the Radboud university medical center. His research interests include ....
