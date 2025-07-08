@@ -91,13 +91,6 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
@@ -117,3 +110,10 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+icon:
+  pack:
+    - fas
+    - fab
+    - ai
+    - custom 

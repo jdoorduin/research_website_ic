@@ -18,21 +18,30 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio
+bio: Marloes IJland is a consultant in Pediatric Intensive care at the Radboud university medical center. Her research focuses on the impact of critical illness and mechanical ventilation on diaphragm and respiratory muscle function, assessment of respiratory effort during mechanical ventilation and difficult mechanical ventilation in children.
 
 interests:
   - Pediatric Mechanical Ventilation and Weaning
   - Respiratory Muscle Function
-  - Fluid Management
+  - Assessment of respiratory effort
 
 education:
   courses:
-    - course: Pediatric and Intensive Care Medicine
+    - course: Radboudumc Amalia Children’s Hospital & Wilhelmina Children’s Hospital 
       institution: Radboud University Medical Center
       year: 2011
+    - course: Pediatric Medicine
+      institution: Radboudumc Amalia Children’s Hospital
+      year: 2008
     - course: Doctor of Medicine
       institution: Radboud University
-      year: 2002
+      year: 2001
+    - course: MSc in Medicine
+      institution: Radboud University
+      year: 1999
+    - course: BSc in bio-medical health
+      institution: Radboud University
+      year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,5 +75,4 @@ user_groups:
    - PhD Candidates
 
 ---
-
-And then over here we put a small story to explain how and what a person does.
+Marloes IJland is a consultant in Pediatric Intensive care at the Radboud university medical center. Her research focuses on the impact of critical illness and mechanical ventilation on diaphragm and respiratory muscle function, assessment of respiratory effort during mechanical ventilation and difficult mechanical ventilation in children.

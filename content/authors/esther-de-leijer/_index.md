@@ -18,7 +18,7 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: Esther de Leijer is a PhD student at the Intensive care department at the Radboud university medical center. Her research focuses mainly on weaning from the mechanical ventilation and the diaphragm.
 
 interests:
   - Pulmonary Physiology
@@ -31,6 +31,9 @@ education:
     - course: Doctor of Medicine
       institution: Radboud University
       year: 2020
+    - course:  Master of Movement Science
+      institution: University of Michigan
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,4 +66,4 @@ user_groups:
   - WEANLESS
 ---
 
-Esther de Leijer is a PhD student in ...
+Esther de Leijer is a PhD student at the Intensive care department at the Radboud university medical center. Her research focuses mainly on weaning from the mechanical ventilation and the diaphragm.

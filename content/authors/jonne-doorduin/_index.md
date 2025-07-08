@@ -10,7 +10,7 @@ last_name: Doorduin
 superuser: true
 
 # Role/position
-role: Assistant Professor of Respiratory Failure and Mechanical Ventilation
+role: Assistant Professor of Respiratory Failure and Mechanical Ventilation, Technical Physician
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jonne.doorduin@radboudumc.nl'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/DrJonneDoorduin
   - icon: google-scholar
@@ -73,7 +73,7 @@ highlight_name: true
 user_groups:
   - Principal Investigators
   - WEANLESS
-  - PREVENT
+
 ---
 
 Jonne Doorduin is an assistant professor of respiratory failure and mechanical ventilation at the Radboud university medical center. His research interests include Respiratory Failure, Mechanical Ventilation and Neurophysiology. He leads the Respiratory Failure and Mechanical Ventilation group.

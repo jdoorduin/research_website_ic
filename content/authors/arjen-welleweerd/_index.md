@@ -10,15 +10,15 @@ last_name: Welleweerd
 superuser: false
 
 # Role/position
-role: Clinical Specialization Intern
+role: Clinical Specialization Intern, Technical Medicine
 
 # Organizations/Affiliations
 organizations:
-  - name: Radboud university medical center
-    url: 'www.radboudumc.nl'
+  - name: University of Twente
+    url: 'https://www.utwente.nl/onderwijs/bachelor/opleidingen/technische-geneeskunde/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ....
+bio: Arjen Welleweerd, MSc student, is currently doing his graduation project as part of a double degree in Technical Medicine and Biomedical Engineering. His academic and research interests lie in critical care and clinical neurophysiology. For his thesis, he is contributing to the BRAIN‑VENT project, focusing on unraveling the effects of Mechancal Ventilation on Respiratory-Brain Coupling.
 
 interests:
   - Neurorespiratory Physiology
@@ -30,12 +30,12 @@ education:
     - course: BSc in Technical Medicine
       institution: University of Twente
       year: 2021
-    - course: MSc in Technical Medicine
-      institution: University of Twente
-      year: 2026
-    - course: MSc in Biomedical Engineering
-      institution: University of Twente
-      year: 2026
+    # - course: MSc in Technical Medicine
+    #   institution: University of Twente
+    #   year: 2026
+    # - course: MSc in Biomedical Engineering
+    #   institution: University of Twente
+    #   year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,5 +72,4 @@ user_groups:
   - Internship Students
 
 ---
-
-Arjen is a graduate intern studying Technical Medicine and Biomedical Engineering.
+Arjen Welleweerd, MSc student, is currently doing his graduation project as part of a double degree in Technical Medicine and Biomedical Engineering. His academic and research interests lie in critical care and clinical neurophysiology. For his thesis, he is contributing to the BRAIN‑VENT project, focusing on unraveling the effects of Mechancal Ventilation on Respiratory-Brain Coupling.

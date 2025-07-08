@@ -18,18 +18,22 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio
+bio: Jinyu Zhou is a PhD researcher with a background in rehabilitation sciences and physiotherapy. His research focuses on the pathophysiological mechanisms underlying weaning failure and the development of targeted physiotherapeutic interventions for mechanically ventilated patients.
 
 interests:
   - Rehabilitation
-  - Neurophysiology
-  - Cardiopulmonary Rehabilitation
+  - Physiotherapy
+  - Mechanical Ventilation
+  - Weaning
 
 education:
   courses:
     - course: MSc in Physiotherapy
       institution: University of Antwerp
-      year: 2024
+      year: 2025
+    - course: BSc in Rehabilitation Therapy
+      institution: Chongqing Medical University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,6 +43,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:Jinyu.Zhou@radboudumc.nl'
+  - icon: x-twitter
+    icon_pack: fab
+    link: 'https://x.com/jz_rehab?s=21'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?hl=zh-CN&user=aGI5VdcAAAAJ&view_op=list_works&gmla=AH8HC4x3Xpg263d_CJhB8rwsuoJ0pgAcwLjiXBjVWjW4q3huVi7ganB2cI8ttfnsF2PVS-4YO1FwFMid6m6qWHRQ0BBY-P1t2C-hY0rXmJU'
   - icon: researchgate
     icon_pack: fab
     link: 'https://www.researchgate.net/profile/Jinyu-Zhou-12'
@@ -52,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'Jinyu.Zhou@radboudumc.nl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -63,4 +73,4 @@ user_groups:
    - PhD Candidates
 ---
 
-And then over here we put a small story to explain how and what a person does.
+Jinyu Zhou is a PhD researcher with a background in rehabilitation sciences and physiotherapy. His research focuses on the pathophysiological mechanisms underlying weaning failure and the development of targeted physiotherapeutic interventions for mechanically ventilated patients.

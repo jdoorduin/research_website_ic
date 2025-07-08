@@ -18,12 +18,12 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ....
+bio: Lisanne Roesthuis is a technical physician at the Intensive Care Unit of the Radboud university medical center, where she combines patient care with research and teaching.
 
 interests:
   - Advanced Respiratory Monitoring 
+  - Protective Mechanical Ventilation
   - Weaning
-  - Protective Ventilation
 
 
 education:
@@ -33,7 +33,7 @@ education:
       year: 2022
     - course: MSc in Technical Medicine
       institution: University of twente
-      year: 2014
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'lisanne.roesthuis@radboudumc.nl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -69,4 +69,4 @@ user_groups:
   - PREVENT
 ---
 
-Lisanne Roesthuis is a post doc in ....
+Lisanne Roesthuis is a technical physician at the Intensive Care Unit of the Radboud university medical center, where she combines patient care with research and teaching.

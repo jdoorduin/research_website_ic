@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tommaso Rosa
+title: Tommaso Rosà
 
 # Full Name (for SEO)
 first_name: Tommaso
@@ -14,25 +14,22 @@ role: Research Fellow, Resident in Anesthesiology and Intensive Care Medicine
 
 # Organizations/Affiliations
 organizations:
-  - name: Radboud university medical center
-    url: 'www.radboudumc.nl'
+  - name: Università Cattolica del Sacro Cuore Roma
+    url: 'https://www.unicatt.it/en'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio
+bio: Tommaso Rosà is a Medical Doctor currently specializing in anesthesiology and intensive care medicine at Università Cattolica del Sacro Cuore, Rome, Italy. His research background explores respiratory physiology and mechanical ventilation. At the moment, he is working as research fellow at Radboudumc, focusing on physiology of assisted breathing during mechanical ventilation for acute hypoxemic respiratory failure.
 
 interests:
-  - Respiratory Failure
-  - Positive End Expiratory Pressure
-  - Non Invasive Helmet Ventilation
+  - Acute Respiratory Failure and ARDS
+  - Lung Recruitment and PEEP
+  - Invasive and Non-invasive Ventilation
 
 education:
   courses:
-    - course: PhD in Medicine
-      institution: Università Cattolica del Sacro Cuore
-      year: 20XX
     - course: Doctor of Medicine
       institution: Università Cattolica del Sacro Cuore
-      year: 20XX
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,6 +39,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:Tommaso.Rosa@radboudumc.nl'
+  - icon: scopus
+    icon_pack: ai
+    link: 'https://www.scopus.com/authid/detail.uri?authorId=57221770701'
+  - icon: bluesky
+    icon_pack: fab 
+    link: 'https://bsky.app/profile/tomros22.bsky.social'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=kBS93iQAAAAJ&hl=en'
@@ -66,4 +69,4 @@ user_groups:
  - Affiliated Researchers
 ---
 
-And then over here we put a small story to explain how and what a person does.
+Tommaso Rosà is a Medical Doctor currently specializing in anesthesiology and intensive care medicine at Università Cattolica del Sacro Cuore, Rome, Italy. His research background explores respiratory physiology and mechanical ventilation. At the moment, he is working as research fellow at Radboudumc, focusing on physiology of assisted breathing during mechanical ventilation for acute hypoxemic respiratory failure.

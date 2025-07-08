@@ -67,27 +67,27 @@ sections:
     content:
       title: "Study Summary"
       text: |
-        ### Rationale
+        ## Rationale
         Respiratory muscle weakness is common in invasively ventilated patients and contributes to prolonged ventilation and worse outcomes. This weakness is not only caused by muscle atrophy but also by reduced calcium sensitivity, which impairs contractile efficiency. Levosimendan, a calcium sensitizer approved for acute heart failure, has been shown by our group to improve calcium sensitivity in respiratory muscles in both experimental models and healthy subjects. However, its effect on clinically relevant outcomes in ventilated ICU patients has not yet been studied.
 
-        ### Objective
+        ## Objective
         To assess the effect of levosimendan on the number of ventilator-free days up until day 28. 
 
-        ### Study design
+        ## Study design
         WEANLESS is an investigator-initiated, multicenter, randomized double blinded clinical trial in ventilated adult patients admitted to the ICUs of participating hospitals.
 
-        ### Study population
+        ## Study population
         This study will include 250 patients. Who are invasively ventilated for more than 48hours and failed at least one SBT. Patients are enrolled from participating ICUs and randomized within 24 hours after failing their first SBT.
 
-        ### Intervention
+        ## Intervention
         Patients will be randomly assigned in a double-blind manner to receive either levosimendan or placebo. The study medication will be administered as a continuous intravenous infusion over 24 hours, starting at a dose of 0.1 µg/kg/min, with the option to increase to 0.2 µg/kg/min after 4 hours if well tolerated. If weaning is not successful after 7 days, a maximum of four treatment cycles may be given. All patients will continue to receive standard ICU care, including daily assessments of readiness to wean from mechanical ventilation.
 
         In addition to the intervention, health-related quality of life will be assessed using the EQ-5D-5L questionnaire at baseline, 3 months, and 12 months after inclusion. Dyspnea scores will be recorded daily after extubation until ICU discharge.
 
-        ### Main study parameters/endpoints
+        ## Main study parameters/endpoints
         The primary endpoint is the number of days from the initiation of study medication to successful weaning from invasive mechanical ventilation. This is a composite endpoint combining both mortality and the duration of ventilation. Secondary outcomes include ventilator-free days at day 90, dyspnea scores, reintubation rates, ICU readmission, ICU length of stay, hospital lenght of stay and mortality. Safety outcomes include the occurrence of cardiac arrhythmias, changes in vasopressor requirements and other adverse events related to levosimendan.
 
-        ### Nature and extent of the burden and risks associated with participation, benefit and group relatedness
+        ## Nature and extent of the burden and risks associated with participation, benefit and group relatedness
         The burden for participants is minimal. Levosimendan is a registered drug with a known safety profile and is already used in critical care settings. The placebo is an infusion with Soluvit. All other care follows standard ICU procedures. Data will be collected from the electronic medical record and routine monitoring. No additional invasive procedures are required solely for the main study.
 
   - block: people
@@ -150,19 +150,22 @@ sections:
     content:
       title: "Important Documents"
       items:
-        - name: "Study Protocol"
-          url: "/files/placeholder.pdf"
+        - name: "Study Protocol v3.0"
+          url: "/research_website_ic/files/WEANLESS/D1_protocol 2024-518810-23 - V3 clean version - redacted.pdf"
           description: "Detailed protocol for the WEANLESS study."
           icon: "far fa-file"
-        - name: "Informed Consent Form"
-          url: "/files/placeholder.pdf"
-          description: "Consent form template for patients."
+        - name: "Patient information"
+          url: "/research_website_ic/files/WEANLESS/L1_SIS and ICF adults patient - V3 - CV - redacted.pdf"
+          description: "Consent form for patients."
           icon: "far fa-file"
-        - name: "Data Management Plan"
-          url: "/files/placeholder.pdf"
-          description: "Plan for data handling and privacy."
+        - name: "Patient information for representatives"
+          url: "/research_website_ic/files/WEANLESS/L1_SIS and ICF adults proxy -V3 - CV - redacted.pdf"
+          description: "Consent form for legal representatives of patients unable to give informed consent."
           icon: "far fa-file"
-
+        - name: "SOP Dyspnea score"
+          url: "/research_website_ic/files/WEANLESS/SOP Dyspneu score.pdf"
+          description: "Standard operating procedure for visual analog scoring of dyspnea."
+          icon: "far fa-file"
 
 
 ---

@@ -10,12 +10,12 @@ last_name: Besselink
 superuser: false
 
 # Role/position
-role: Clinical Research Intern
+role: Clinical Research Intern, Technical Medicine
 
 # Organizations/Affiliations
 organizations:
-  - name: Radboud university medical center
-    url: 'www.radboudumc.nl'
+  - name: University of Twente
+    url: 'https://www.utwente.nl/onderwijs/bachelor/opleidingen/technische-geneeskunde/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Bio

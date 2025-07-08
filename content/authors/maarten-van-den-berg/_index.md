@@ -3,14 +3,14 @@
 title: Maarten van den Berg
 
 # Full Name (for SEO)
-first_name: Maarten
-last_name: van den Berg
+first_name: Maarten van den
+last_name: Berg
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Clinical Researcher, Internal Medicine Physician - Intensivist
+role: Clinical Researcher, Intensivist
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio
+bio: Maarten van den Berg works as an intensivist at the ICU of Radboud University Medical Center. In his clinical practice, he has a special interest in respiratory failure and advanced respiratory monitoring, including transpulmonary pressure and electrical impedance tomography. He also manages patients on ECMO and uses ultrasound both in patient care and medical education.
 
 interests:
-  - Consciousness during Mechanical Ventilation
-  - Diagnostic innovation
-  - VExUS
+  - Mechanical ventilation
+  - Extra corporeal membrane oxygenation
+  - Echography 
 
 education:
   courses:
     - course: Doctor of Medicine
       institution: Radboud University
-      year: 20XX
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,4 +58,4 @@ user_groups:
   - Clinical Researchers
 ---
 
-And then over here we put a small story to explain how and what a person does.
+Maarten van den Berg works as an intensivist at the ICU of Radboud University Medical Center. In his clinical practice, he has a special interest in respiratory failure and advanced respiratory monitoring, including transpulmonary pressure and electrical impedance tomography. He also manages patients on ECMO and uses ultrasound both in patient care and medical education.

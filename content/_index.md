@@ -64,6 +64,20 @@ sections:
           - Post-doctoral Researchers
           - PhD Candidates
           - Clinical Researchers
+
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: true
+      show_role: true
+      show_social: true
+  - block: people
+    id: team_1
+    content:
+      title: false
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
           - Affiliated Researchers
           - Internship Students
           - Administration
@@ -72,6 +86,7 @@ sections:
       sort_ascending: true
     design:
       show_interests: true
+      show_organizations: true
       show_role: true
       show_social: true
 

@@ -10,7 +10,7 @@ last_name: Heunks
 superuser: false
 
 # Role/position
-role: Full Professor of Intensive Care Medicine
+role: Full Professor of Intensive Care Medicine, Pulmonologist-Intensivist
 
 # Organizations/Affiliations
 organizations:
@@ -47,12 +47,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:leo.heunks@radboudumc.nl'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/DrLeoHeunks
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=nl&user=SOG-ZT0AAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/leo-heunks-02b97162"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

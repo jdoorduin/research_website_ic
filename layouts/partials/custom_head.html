@@ -1,2 +1,5 @@
 {{ $style := resources.Get "scss/custom.css" | minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+<!-- Force-load FontAwesome 6.4.0 to ensure Bluesky icon is available -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">

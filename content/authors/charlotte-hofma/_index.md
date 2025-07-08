@@ -10,15 +10,15 @@ last_name: Hofma
 superuser: false
 
 # Role/position
-role: Clinical Specialization Intern
+role: Clinical Specialization Intern, Technical Medicine
 
 # Organizations/Affiliations
 organizations:
-  - name: Radboud university medical center
-    url: 'www.radboudumc.nl'
+  - name: University of Twente
+    url: 'https://www.utwente.nl/onderwijs/bachelor/opleidingen/technische-geneeskunde/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ....
+bio: Charlotte Hofma is a Technical Medicine student, working on her master's assignment in the Intensive Care Unit at Radboud University Medical Center. Her research focuses on applying concepts from Cardiopulmonary Exercise Testing in patients with weaning failure during spontaneous breathing trials.
 
 interests:
   - Cardiopulmonary Physiology
@@ -30,9 +30,9 @@ education:
     - course: BSc in Technical Medicine
       institution: University of Twente
       year: 2021
-    - course: MSc in Technical Medicine
-      institution: University of Twente
-      year: 2025
+    # - course: MSc in Technical Medicine
+    #   institution: University of Twente
+    #   year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,5 +61,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Internship Students
-
 ---
+
+Charlotte Hofma is a Technical Medicine student, working on her master's assignment in the Intensive Care Unit at Radboud University Medical Center. Her research focuses on applying concepts from Cardiopulmonary Exercise Testing in patients with weaning failure during spontaneous breathing trials.

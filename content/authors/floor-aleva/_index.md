@@ -18,19 +18,20 @@ organizations:
     url: 'www.radboudumc.nl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio
+bio: Floor Aleva is a pulmonologist-intensivist. Her main interests include respiratory physiology, mechanical ventilation, extracorporeal membrane oxygenation (ECMO) and weaning.
 
 interests:
-  - Chronic Respiratory Disease
-  - Inflammation
-  - Coagulation
+  - Mechanical Ventilation
+  - Respiratory Physiology
+  - Extracorporeal Membrane Oxygenation
+
 
 education:
   courses:
     - course: Pulmonary and Intensive Care Medicine
       institution: Radboud University Medical Center
       year: 2025
-    - course: PhD in Medicine
+    - course: PhD in Medicine, Title ‘Inflammation, coagulation and their interaction In Chronic Obstructive Pulmonary Disease’
       institution: Radboud University
       year: 2018
     - course: Doctor of Medicine
