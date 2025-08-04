@@ -67,6 +67,8 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
  - Affiliated Researchers
+ - REEF
+reef_order: 1
 ---
 
 Tommaso Rosà is a Medical Doctor currently specializing in anesthesiology and intensive care medicine at Università Cattolica del Sacro Cuore, Rome, Italy. His research background explores respiratory physiology and mechanical ventilation. At the moment, he is working as research fellow at Radboudumc, focusing on physiology of assisted breathing during mechanical ventilation for acute hypoxemic respiratory failure.
