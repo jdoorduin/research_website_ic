@@ -64,6 +64,8 @@ highlight_name: true
 user_groups:
   - PhD Candidates
   - WEANLESS
+  - REEF
+reef_order: 3
 ---
 
 Esther de Leijer is a PhD student at the Intensive care department at the Radboud university medical center. Her research focuses mainly on weaning from the mechanical ventilation and the diaphragm.

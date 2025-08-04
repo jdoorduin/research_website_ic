@@ -15,14 +15,19 @@ main:
   - name: Projects
     url: /#projects_1
     weight: 30
-  - name: PREVENT
-    parent: Projects
-    url: projects/prevent/
-    weight: 10
   - name: WEANLESS
     parent: Projects
     url: projects/weanless/
-    weight: 20
+    weight: 10
+  - name: REEF
+    parent: Projects
+    url: projects/reef/
+    weight: 11
+  - name: PREVENT
+    parent: Projects
+    url: projects/prevent/
+    weight: 12
+
 
   - name: Team
     url: /#team_1

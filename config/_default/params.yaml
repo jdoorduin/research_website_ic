@@ -95,6 +95,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  tailwind: true
 
 # Extensions
 

@@ -1,0 +1,71 @@
+{{ $block := .wcBlock }}
+
+<section class="container-fluid my-0 px-0">
+  <div class="row align-items-start">
+    {{ with $block.image }}
+      {{ $img := .filename | relURL }}
+      <div class="col-12 col-md-5 mb-3 text-center order-1 order-md-0">
+        <img
+          src="{{ $img }}"
+          alt="{{ .alt | default "Image" }}"
+          class="img-fluid rounded shadow-sm"
+          style="
+            margin-top: -9rem;
+            width: 100%;
+            min-width: 300px;
+            max-width: 600px;
+          "
+        >
+        {{ with .alt }}
+          <figcaption class="text-muted small mt-2">Figure: {{ . }}</figcaption>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <div class="col-12 col-md-7 order-0 order-md-1">
+      {{ with $block.title }}
+        <h3>{{ . }}</h3>
+      {{ end }}
+      {{ with $block.content.text }}
+        <div class="mb-0" style="margin-top: -9rem;">
+          {{ . | markdownify }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+  {{ if $block.page_break }}
+    <div class="page-break mt-4"></div>
+  {{ end }}
+</section>
+
+<style>
+  @media (max-width: 767.98px) {
+    .col-12.col-md-5 img {
+      min-width: auto !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      margin-top: 0rem !important;
+    }
+
+    .col-12.col-md-7 > div[style] {
+      margin-top: -6.5rem !important;
+    }
+  }
+</style>
+
+<style>
+  @media (min-width: 767.98px) and (max-width: 927.98px) {
+    .col-12.col-md-5 img {
+      min-width: auto !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      margin-top: -12rem !important;
+    }
+
+    .col-12.col-md-7 > div[style] {
+      margin-top: -12rem !important;
+      font-size: 1rem; /* slightly smaller text on medium screens */
+    }
+  }
+</style>
