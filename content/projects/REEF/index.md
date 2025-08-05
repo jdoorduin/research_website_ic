@@ -63,7 +63,8 @@ sections:
         For each patient, six different PEEP levels (15-12-10-8-5-2 cmH2O) will be tested during a decremental PEEP trial with 30 minutes per step. During each step, neural respiratory drive, inspiratory effort, expiratory muscle activity, lung inflation pattern through electrical impedance tomography, respiratory muscle geometry and function through ultrasound and surface EMG, gas exchange and hemodynamics data will be collected.
 
         <p align="center">
-          <img src="/images/reef_protocol.png" alt="REEF Diagram" style="width: 80%; min-width: 400px; max-width: 1000px" />
+          <img src="images/reef_protocol.png" alt="REEF Diagram"
+              style="width: 80%; min-width: 400px; max-width: 1000px;" />
           <br>
           <em>Figure: REEF Study Protocol Diagram</em>
         </p>
@@ -90,8 +91,6 @@ sections:
 
   - block: markdown
     content:
-      image:
-        filename: reef_physiology.png
       title: "Physiology focus: PEEP during spontaneous breathing"
       text: |
         In patients with acute hypoxemic respiratory failure (AHRF), preserving spontaneous breathing during mechanical ventilation offers physiological benefits, including improved gas exchange and hemodynamics, and the limitation of diaphragm disuse atrophy(1–3). On the contrary, the presence of strong inspiratory efforts carries the risk of aggravating lung and possibly diaphragm injury(4–6). This delicate balance underscores the urgent need for refined strategies to modulate neural respiratory drive and inspiratory effort to promote a successful transition from controlled to assisted ventilation. 
