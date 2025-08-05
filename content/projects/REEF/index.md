@@ -63,7 +63,7 @@ sections:
         For each patient, six different PEEP levels (15-12-10-8-5-2 cmH2O) will be tested during a decremental PEEP trial with 30 minutes per step. During each step, neural respiratory drive, inspiratory effort, expiratory muscle activity, lung inflation pattern through electrical impedance tomography, respiratory muscle geometry and function through ultrasound and surface EMG, gas exchange and hemodynamics data will be collected.
 
         <p align="center">
-          <img src="images/reef_protocol.png" alt="REEF Diagram"
+          <img src="/research_website_ic/images/reef_protocol.png" alt="REEF Diagram"
               style="width: 80%; min-width: 400px; max-width: 1000px;" />
           <br>
           <em>Figure: REEF Study Protocol Diagram</em>
