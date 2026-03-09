@@ -9,10 +9,9 @@ sections:
     content:
       title: |
       image:
-        filename: welcome.jpg
+        filename: 
       text: |   
-        **The Radboud Mechanical Ventilation Research Group** <br><br>
-        With our research we aim to improve outcome in critically ill mechanically ventilated patients through development and utilization of novel technologies and strategies.
+        The Nijmegen Respiratory Failure and Mechanical Ventilation research group of the Radboudumc in the Netherlands is focused on reducing the harmful effects of mechanical ventilation in critically ill patients, by developing and applying novel technological innovations and integrative physiological approaches focused on the lung, brain, and respiratory muscles. To obtain this goal we combine preclinical research, clinical studies ranging from observational cohort studies, to diagnostic accuracy studies and randomized controlled trial and data from large registries.
           
   - block: markdown
     id: news_1
